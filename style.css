@@ -1,0 +1,28 @@
+.reveal h1 {
+    margin-bottom: 10px;
+    margin-top: 50px;
+    font-size: 3rem;
+}
+
+.reveal h2 {
+  margin-top: 50px;
+  font-size: 2rem;
+}
+
+.reveal h4 {
+  margin-top: 50px;
+  font-size: 1.5rem;
+}
+
+.reveal p, ul, li {
+  font-size: 1.5rem;
+}
+
+.block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
